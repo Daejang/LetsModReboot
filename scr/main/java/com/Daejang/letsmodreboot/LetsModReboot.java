@@ -1,6 +1,7 @@
 package com.Daejang.letsmodreboot;
 
 import com.Daejang.letsmodreboot.handler.ConfigurationHandler;
+import com.Daejang.letsmodreboot.init.ModBlocks;
 import com.Daejang.letsmodreboot.init.ModItems;
 import com.Daejang.letsmodreboot.proxy.IProxy;
 import com.Daejang.letsmodreboot.reference.ModInfo;
@@ -28,6 +29,7 @@ public class LetsModReboot {
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
         ModItems.init();  //Getting the items in the game
+        ModBlocks.init(); //Getting the blocks in the game
 
 
         LogHelper.info("Pre Initialization Complete!");

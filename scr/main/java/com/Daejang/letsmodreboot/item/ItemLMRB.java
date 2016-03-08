@@ -22,11 +22,13 @@ public class ItemLMRB extends Item {
 
     @Override
     public String getUnlocalizedName() {
+        // format: item.modid:itemname.name
         return String.format("item.%s%s", ModInfo.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()) );
     }
 
     @Override
     public String getUnlocalizedName(ItemStack itemStack) {
+        // format: item.modid:itemname.name
         return String.format("item.%s%s", ModInfo.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
     }
 
