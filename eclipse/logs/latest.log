@@ -1,11 +1,31 @@
-[11:31:02] [main/INFO]: Setting user: Player962
-[11:31:02] [Client thread/INFO]: LWJGL Version: 2.9.1
-[11:31:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[11:31:09] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[11:31:09] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[11:31:09] [Sound Library Loader/INFO]: Sound engine started
-[11:31:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[11:31:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[11:31:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[11:31:10] [Sound Library Loader/INFO]: Sound engine started
-[11:31:13] [Client thread/INFO]: Stopping!
+[13:52:27] [main/INFO]: Setting user: Player442
+[13:52:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:52:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[13:52:34] [Sound Library Loader/INFO]: Sound engine started
+[13:52:34] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:52:34] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:52:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[13:52:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:52:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:52:36] [Sound Library Loader/INFO]: Sound engine started
+[13:52:38] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:52:38] [Server thread/INFO]: Generating keypair
+[13:52:38] [Server thread/INFO]: Preparing start region for level 0
+[13:52:38] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:52:38] [Server thread/INFO]: Player442[local:E:c5d01d4a] logged in with entity id 84 at (721.9783787416125, 4.0, -301.3508064695549)
+[13:52:38] [Server thread/INFO]: Player442 joined the game
+[13:52:48] [Server thread/INFO]: Saving and pausing game...
+[13:52:48] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
+[13:52:48] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
+[13:52:48] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
+[13:53:22] [Server thread/INFO]: Saving and pausing game...
+[13:53:22] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
+[13:53:22] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
+[13:53:22] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
+[13:53:23] [Server thread/INFO]: Stopping server
+[13:53:23] [Server thread/INFO]: Saving players
+[13:53:23] [Server thread/INFO]: Saving worlds
+[13:53:23] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
+[13:53:23] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
+[13:53:23] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
+[13:53:24] [Client thread/INFO]: Stopping!

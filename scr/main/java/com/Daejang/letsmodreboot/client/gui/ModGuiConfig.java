@@ -13,11 +13,11 @@ import java.util.List;
 public class ModGuiConfig extends GuiConfig {
 
         //This needs questioning
-    public ModGuiConfig(GuiScreen parentScreen, List<IConfigElement> configElements, String modID, boolean allRequireWorldRestart, boolean allRequireMcRestart, String title) {
+//    public ModGuiConfig(GuiScreen parentScreen, List<IConfigElement> configElements, String modID, boolean allRequireWorldRestart, boolean allRequireMcRestart, String title) {
 //        super(parentScreen, configElements, modID, allRequireWorldRestart, allRequireMcRestart, title);
 //    }
 
-//    public ModGuiConfig (GuiScreen guiScreen) {
+    public ModGuiConfig (GuiScreen parentScreen) {
         super(parentScreen,
                 new ConfigElement(ConfigurationHandler.configuration.getCategory(Configuration.CATEGORY_GENERAL)).getChildElements(),
                 ModInfo.MOD_ID,
