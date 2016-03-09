@@ -1,3 +1,7 @@
-item.letsmodreboot:myLogo.name=The Face of Triumph
+itemGroup.letsmodreboot=Let's Mod Reboot
+
+item.letsmodreboot:creativeLogo.name=Creative K
+item.letsmodreboot:leFace.name=The Face of Triumph
 
 tile.letsmodreboot:sacredObject.name=The Sacred Object of Control
+

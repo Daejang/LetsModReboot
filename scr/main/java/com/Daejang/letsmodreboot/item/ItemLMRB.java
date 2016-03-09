@@ -1,5 +1,6 @@
 package com.Daejang.letsmodreboot.item;
 
+import com.Daejang.letsmodreboot.creativetab.CreativeTabLMRB;
 import com.Daejang.letsmodreboot.reference.ModInfo;
 import cpw.mods.fml.client.config.GuiConfigEntries;
 import cpw.mods.fml.relauncher.Side;
@@ -16,7 +17,7 @@ public class ItemLMRB extends Item {
 
         super();
 //        this.maxStackSize = 1;
-//        this.setCreativeTab(CreativeTabs.);
+        this.setCreativeTab(CreativeTabLMRB.LMRB_TAB);
 //        this.setNoRepair();
     }
 

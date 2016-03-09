@@ -1,7 +1,8 @@
 package com.Daejang.letsmodreboot.init;
 
+import com.Daejang.letsmodreboot.item.ItemCreativeLogo;
 import com.Daejang.letsmodreboot.item.ItemLMRB;
-import com.Daejang.letsmodreboot.item.ItemMyLogo;
+import com.Daejang.letsmodreboot.item.ItemMyLilFace;
 import com.Daejang.letsmodreboot.reference.ModInfo;
 import cpw.mods.fml.common.registry.GameRegistry;
 
@@ -9,10 +10,12 @@ import cpw.mods.fml.common.registry.GameRegistry;
 @GameRegistry.ObjectHolder(ModInfo.MOD_ID)  // This is for keeping our objects safe from tamper from other mods
 public class ModItems {
 
-    public static final ItemLMRB logoItem = new ItemMyLogo();
+    public static final ItemLMRB creativeItem = new ItemCreativeLogo();
+    public static final ItemLMRB logoItem = new ItemMyLilFace();
 
     public static void init() {
-        GameRegistry.registerItem(logoItem, "logoItem");
+        GameRegistry.registerItem(creativeItem, "creativeLogo");
+        GameRegistry.registerItem(logoItem, "leFace");
     }
 
 }
