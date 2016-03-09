@@ -1,14 +1,13 @@
 package com.Daejang.letsmodreboot.block;
 
-
-import com.Daejang.letsmodreboot.creativetab.CreativeTabLMRB;
+import com.Daejang.letsmodreboot.reference.Names;
 
 public class BlockSacredObject extends BlockLMRB {
 
     public BlockSacredObject() {
 
         super();
-        this.setBlockName("sacredObject");
+        this.setBlockName(Names.Blocks.SACRED_BLOCK);
         this.setBlockTextureName("sacredObject");
 
 

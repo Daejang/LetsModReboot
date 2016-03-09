@@ -3,6 +3,7 @@ package com.Daejang.letsmodreboot;
 import com.Daejang.letsmodreboot.handler.ConfigurationHandler;
 import com.Daejang.letsmodreboot.init.ModBlocks;
 import com.Daejang.letsmodreboot.init.ModItems;
+import com.Daejang.letsmodreboot.init.Recipes;
 import com.Daejang.letsmodreboot.proxy.IProxy;
 import com.Daejang.letsmodreboot.reference.ModInfo;
 import com.Daejang.letsmodreboot.utility.LogHelper;
@@ -39,6 +40,8 @@ public class LetsModReboot {
     //For registering GUI, tile entities, crafting recipes
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
+
+        Recipes.init();
         LogHelper.info("Initialization Complete!");
     }
 

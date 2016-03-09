@@ -11,7 +11,7 @@ public class CreativeTabLMRB {
 
         @Override
         public Item getTabIconItem() {
-            return ModItems.creativeItem;
+            return ModItems.creativeLogo;
         }
     };
 }
