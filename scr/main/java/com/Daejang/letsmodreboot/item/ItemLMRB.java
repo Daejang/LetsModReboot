@@ -16,7 +16,6 @@ public class ItemLMRB extends Item {
     public ItemLMRB() {
 
         super();
-//        this.maxStackSize = 1;
         this.setCreativeTab(CreativeTabLMRB.LMRB_TAB);
 //        this.setNoRepair();
     }
@@ -24,13 +23,13 @@ public class ItemLMRB extends Item {
     @Override
     public String getUnlocalizedName() {
         // format: item.modid:itemname.name
-        return String.format("item.%s%s", ModInfo.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()) );
+        return String.format("item.%s%s", ModInfo.LOWERCASE_MOD_ID + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()) );
     }
 
     @Override
     public String getUnlocalizedName(ItemStack itemStack) {
         // format: item.modid:itemname.name
-        return String.format("item.%s%s", ModInfo.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+        return String.format("item.%s%s", ModInfo.LOWERCASE_MOD_ID + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
     }
 
     @Override

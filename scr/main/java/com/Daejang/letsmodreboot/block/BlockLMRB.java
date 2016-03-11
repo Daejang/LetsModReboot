@@ -14,11 +14,14 @@ public class BlockLMRB extends Block {
 
         super(material);
         this.setCreativeTab(CreativeTabLMRB.LMRB_TAB);
+        this.blockHardness = 3.0F;
+        this.setStepSound(soundTypeStone);
+
     }
 
     public BlockLMRB() {
 
-        this(Material.iron);  //Default material. Appears on the map as the material color.
+        this(Material.ground);  //Default material. Appears on the map as the material color.
     }
 
     @Override

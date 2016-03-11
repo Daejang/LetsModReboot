@@ -1,16 +1,13 @@
 package com.Daejang.letsmodreboot.item;
 
-import com.Daejang.letsmodreboot.reference.names.ItemNames;
-import net.minecraft.creativetab.CreativeTabs;
+import com.Daejang.letsmodreboot.reference.Names;
 
-/**
- * Created by Kalby on 3/8/16.
- */
+
 public class ItemCreativeLogo extends ItemLMRB {
 
     public ItemCreativeLogo() {
 
-        this.setUnlocalizedName(ItemNames.CREATIVE_LOGO);
+        this.setUnlocalizedName(Names.Items.CREATIVE_LOGO);
 
 
 

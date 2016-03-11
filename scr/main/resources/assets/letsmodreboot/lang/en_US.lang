@@ -3,8 +3,11 @@ itemGroup.letsmodreboot=Let's Mod Reboot
 item.letsmodreboot:creativeLogo.name=Creative K
 item.letsmodreboot:leFace.name=The Face of Triumph
 item.letsmodreboot:wonderIngot.name=Wonderful Ingot
-item.letsmodreboot:firstPickaxe.name=Pickaxe of écaillage
+item.letsmodreboot:firstPickaxe.name=Pickaxe of Chipping
+item.letsmodreboot:mostBasicParticle.name=The Most Basis Particle
 
 
 tile.letsmodreboot:sacredObject.name=The Sacred Object of Control
+tile.letsmodreboot:particleOre.name=Particle Ore
+
 

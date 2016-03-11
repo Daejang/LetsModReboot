@@ -1,82 +1,22 @@
-[21:47:10] [main/INFO]: Logging in with username & password
-[21:47:13] [main/INFO]: Setting user: kalbytron
-[21:47:13] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:47:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[21:47:20] [Sound Library Loader/INFO]: Sound engine started
-[21:47:20] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[21:47:20] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[21:47:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[21:47:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:47:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:47:22] [Sound Library Loader/INFO]: Sound engine started
-[21:47:24] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:47:24] [Server thread/INFO]: Generating keypair
-[21:47:24] [Server thread/INFO]: Preparing start region for level 0
-[21:47:25] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:47:25] [Server thread/INFO]: kalbytron[local:E:1cce6e39] logged in with entity id 84 at (718.8103333521461, 4.0, -302.453037149427)
-[21:47:25] [Server thread/INFO]: kalbytron joined the game
-[21:51:48] [Server thread/INFO]: Saving and pausing game...
-[21:51:48] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
-[21:51:48] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
-[21:51:48] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
-[21:51:53] [Server thread/INFO]: Saving and pausing game...
-[21:51:53] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
-[21:51:53] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
-[21:51:53] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
-[21:52:07] [Server thread/INFO]: Saving and pausing game...
-[21:52:07] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
-[21:52:07] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
-[21:52:07] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
-[21:52:08] [Server thread/INFO]: Saving and pausing game...
-[21:52:08] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
-[21:52:08] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
-[21:52:08] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
-[21:54:32] [Client thread/INFO]: [CHAT] set, add
-[21:54:33] [Client thread/INFO]: [CHAT] day, night
-[21:54:34] [Server thread/INFO]: [kalbytron: Set the time to 1000]
-[21:54:34] [Client thread/INFO]: [CHAT] Set the time to 1000
-[21:54:41] [Client thread/INFO]: [CHAT] set, add
-[21:54:42] [Client thread/INFO]: [CHAT] day, night
-[21:54:42] [Client thread/INFO]: [CHAT] day, night
-[21:54:42] [Client thread/INFO]: [CHAT] day, night
-[21:54:43] [Client thread/INFO]: [CHAT] day, night
-[21:54:44] [Client thread/INFO]: [CHAT] day, night
-[21:54:49] [Client thread/INFO]: [CHAT] 'noon' is not a valid number
-[21:57:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:eating
-[21:57:34] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
-[21:57:35] [Client thread/INFO]: [CHAT] survival, creative, adventure
-[21:57:36] [Server thread/INFO]: [kalbytron: Set own game mode to Survival Mode]
-[21:57:36] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:57:51] [Client thread/INFO]: [CHAT] survival, creative, adventure
-[21:57:52] [Client thread/INFO]: [CHAT] survival, creative, adventure
-[21:57:55] [Server thread/INFO]: [kalbytron: Set own game mode to Creative Mode]
-[21:57:55] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:58:06] [Server thread/INFO]: Saving and pausing game...
-[21:58:06] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
-[21:58:06] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
-[21:58:06] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
-[21:59:39] [Server thread/INFO]: Saving and pausing game...
-[21:59:39] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
-[21:59:39] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
-[21:59:39] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
-[21:59:40] [Server thread/INFO]: Stopping server
-[21:59:40] [Server thread/INFO]: Saving players
-[21:59:40] [Server thread/INFO]: Saving worlds
-[21:59:40] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
-[21:59:40] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
-[21:59:40] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
-[21:59:41] [Client thread/INFO]: Stopping!
+[13:19:08] [main/INFO]: Setting user: Player530
+[13:19:09] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:19:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[13:19:15] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:19:15] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:19:15] [Sound Library Loader/INFO]: Sound engine started
+[13:19:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[13:19:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:19:15] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:19:16] [Sound Library Loader/INFO]: Sound engine started
+[13:19:18] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:19:18] [Server thread/INFO]: Generating keypair
+[13:19:18] [Server thread/INFO]: Preparing start region for level 0
+[13:19:19] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:19:19] [Server thread/INFO]: Player530[local:E:32e80fe8] logged in with entity id 84 at (718.1732335647797, 4.0, -299.65179738177727)
+[13:19:19] [Server thread/INFO]: Player530 joined the game
+[13:19:24] [Server thread/INFO]: Player530 has just earned the achievement [Taking Inventory]
+[13:19:24] [Client thread/INFO]: [CHAT] Player530 has just earned the achievement [Taking Inventory]
+[13:21:21] [Server thread/INFO]: Saving and pausing game...
+[13:21:21] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Overworld
+[13:21:21] [Server thread/INFO]: Saving chunks for level 'Test World #1'/Nether
+[13:21:21] [Server thread/INFO]: Saving chunks for level 'Test World #1'/The End
