@@ -2,39 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc31f969-6e77-43b2-992b-63f6397e2409" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/tool/ItemPickaxeOne.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/item/ItemPickaxeOne.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names$Keys.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemPickaxeOne.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-08-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-08-1.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-08-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-08-2.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-08-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-08-3.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-08-4.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-08-4.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-08-5.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-08-5.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-08-6.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-08-6.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-08-7.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-08-7.log.gz" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/assets/letsmodreboot/textures/items/leFace.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/textures/items/leFace.png" afterPath="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/textures/items/laFace.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-11-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-11-1.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-11-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-11-2.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-11-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-11-3.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-11-4.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-11-4.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-11-5.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-11-5.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-11-6.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-11-6.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2016-03-11-7.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2016-03-11-7.log.gz" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/DIM-1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/DIM1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/data/villages.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/data/villages.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/level.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/level.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/level.dat_old" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/playerdata/e5e6ba30-3b30-453a-818e-93aab43a78a7.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/playerdata/e5e6ba30-3b30-453a-818e-93aab43a78a7.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/playerdata/10170aa4-882d-3b2e-9798-50b9f8d93a4b.dat" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/playerdata/10170aa4-882d-3b2e-9798-50b9f8d93a4b.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.0.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.0.-1.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.0.-2.mca" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.0.-2.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.1.-1.mca" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.1.-1.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.1.-2.mca" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/region/r.1.-2.mca" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/session.lock" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/block/BlockLMRB.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/block/BlockLMRB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/block/BlockSacredObject.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/block/BlockSacredObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/init/ModBlocks.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/init/ModBlocks.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/init/ModItems.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/init/ModItems.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/init/Recipes.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/init/Recipes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/item/ItemCreativeLogo.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/item/ItemCreativeLogo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/item/ItemLMRB.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/item/ItemLMRB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/ModInfo.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/ModInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/item/ItemMyLilFace.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/item/ItemMyLilFace.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names$Blocks.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names$Blocks.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names$Items.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names$Items.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/textures/items/firstPickaxe.png" afterPath="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/textures/items/firstPickaxe.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names$Tools.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/Daejang/letsmodreboot/reference/Names$Tools.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetsModReboot.iws" afterPath="$PROJECT_DIR$/LetsModReboot.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
@@ -43,16 +39,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/stats/e5e6ba30-3b30-453a-818e-93aab43a78a7.json" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/stats/e5e6ba30-3b30-453a-818e-93aab43a78a7.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/saves/Test World #1/stats/10170aa4-882d-3b2e-9798-50b9f8d93a4b.json" afterPath="$PROJECT_DIR$/eclipse/saves/Test World #1/stats/10170aa4-882d-3b2e-9798-50b9f8d93a4b.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/assets/letsmodreboot/lang/en_US.lang" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/assets/letsmodreboot/lang/en_US.lang" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockLMRB.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockLMRB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockSacredObject.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockSacredObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModBlocks.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModBlocks.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModItems.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModItems.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/Recipes.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/Recipes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemCreativeLogo.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemCreativeLogo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemLMRB.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemLMRB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/ModInfo.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/ModInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMyLilFace.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMyLilFace.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/Names.java" afterPath="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/Names.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang" afterPath="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang" />
     </list>
@@ -108,17 +103,55 @@
     <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.6287425">
+                    <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="Names.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/Names.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.53859967">
+                    <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="LetsModReboot" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ModItems.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ModItems.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModItems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.33213645">
+              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,51 +159,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemPickaxeLMRB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/tool/ItemPickaxeLMRB.java">
+      <file leaf-file-name="ItemMostBasicParticle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMostBasicParticle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemPickaxeOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/tool/ItemPickaxeOne.java">
+      <file leaf-file-name="BlockItemOre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockItemOre.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemLMRB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemLMRB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockParticleOre.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5924596">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,7 +185,7 @@
         <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/Recipes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+              <caret line="35" column="94" selection-start-line="35" selection-start-column="94" selection-end-line="35" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -188,31 +193,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang">
+      <file leaf-file-name="ModBlocks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModBlocks.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
-              <folding />
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OreDictionary.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraftforge/oredict/OreDictionary.java">
+      <file leaf-file-name="BlockParticleOre.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-              <folding />
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/Item.java">
+      <file leaf-file-name="ItemMyLilFace.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMyLilFace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.333333">
-              <caret line="69" column="30" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -268,8 +279,6 @@
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/utility/NBTHelper.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/names/ItemNames.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/LetsModReboot.java" />
-        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMyLilFace.java" />
-        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockSacredObject.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemWonderIngot.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemPickaxeOne.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/ModInfo.java" />
@@ -281,13 +290,15 @@
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMostBasicParticle.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/tool/ItemPickaxeOne.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockLMRB.java" />
-        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/Names.java" />
-        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModBlocks.java" />
-        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.java" />
-        <option value="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockItemOre.java" />
+        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.java" />
+        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/Names.java" />
+        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMyLilFace.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModItems.java" />
+        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockSacredObject.java" />
+        <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModBlocks.java" />
         <option value="$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/Recipes.java" />
+        <option value="$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang" />
       </list>
     </option>
   </component>
@@ -303,9 +314,9 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1465" />
+    <option name="x" value="-1408" />
     <option name="y" value="-157" />
-    <option name="width" value="1440" />
+    <option name="width" value="1383" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -736,7 +747,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Actual Mod" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Project" />
@@ -1128,8 +1139,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1465" y="-157" width="1440" height="1053" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1408" y="-157" width="1383" height="1053" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1138,11 +1149,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4054878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4054878" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17569445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22638889" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18293564" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23571946" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32825205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1152,7 +1164,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1212,46 +1223,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/utility/LogHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.555555">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/cpw/mods/fml/client/event/ConfigChangedEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1035422">
-          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/textures/items/leFace.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/client/gui/ModGuiConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28610355">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/client/gui/GuiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3678474">
-          <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19014084">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/creativetab/CreativeTabs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.081743866">
@@ -1417,14 +1388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMyLilFace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemWonderIngot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1446,14 +1409,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/Names.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/ModInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1467,17 +1422,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="96" selection-start-line="17" selection-start-column="96" selection-end-line="17" selection-end-column="96" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1490,40 +1435,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockItemOre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockLMRB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockSacredObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/tool/ItemToolLMRB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1533,7 +1450,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1543,34 +1460,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMostBasicParticle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18551236">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemLMRB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="69" column="30" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1590,33 +1481,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang">
+    <entry file="file://$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/textures/items/firstPickaxe.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemCoal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.10771993">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModItems.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/init/Blocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33213645">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockLMRB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/textures/items/firstPickaxe.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemEnderEye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10771993">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10771993">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemLMRB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33213645">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemEgg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10771993">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/block/BlockOre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9156194">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMyLilFace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eclipse/logs/fml-client-1.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34818482">
+          <caret line="433" column="150" selection-start-line="433" selection-start-column="150" selection-end-line="433" selection-end-column="150" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/BlockSacredObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21327014">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/Recipes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+          <caret line="35" column="94" selection-start-line="35" selection-start-column="94" selection-end-line="35" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/item/ItemMostBasicParticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockItemOre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1625,13 +1618,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/block/worldgen/BlockParticleOre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5924596">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/reference/Names.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53859967">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/java/com/Daejang/letsmodreboot/init/ModItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33213645">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scr/main/resources/assets/letsmodreboot/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6287425">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

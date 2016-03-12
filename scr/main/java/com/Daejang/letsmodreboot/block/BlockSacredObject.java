@@ -8,7 +8,7 @@ public class BlockSacredObject extends BlockLMRB {
 
         super();
         this.setBlockName(Names.Blocks.SACRED_BLOCK);
-        this.setBlockTextureName("sacredObject");
+//        this.setBlockTextureName(Names.Blocks.SACRED_BLOCK);
 
 
         this.setLightLevel(1F);

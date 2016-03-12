@@ -6,9 +6,13 @@ public class Names {
     {
         public static final String CREATIVE_LOGO = "creativeLogo";
 
-        public static final String LE_FACE      = "leFace";
+        public static final String LA_FACE = "laFace";
         public static final String WONDER_INGOT = "wonderIngot";
         public static final String MOST_BASIC_PARTICLE = "mostBasicParticle";
+
+        public static final String LA_FACE_EYE = "laFaceEye";
+        public static final String LA_FACE_MOUTH = "laFaceMouth";
+        public static final String LA_FACE_HEAD = "laFaceHead";
 
     }
 
